@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\Downloads\\startbootstrap-sb-admin-2-gh-pages"
+	},
+	{
+		"path": "..\\..\\..\\Downloads\\colorlib-search-23"
+	},
+	{
+		"path": "..\\..\\..\\Downloads\\colorlib-search-7"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "startbootstrap-sb-admin-2-gh-pages"
+  }
+}
