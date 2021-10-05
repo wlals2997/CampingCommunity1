@@ -3,7 +3,7 @@ Bootstrap를 이용해 만든 캠핑 커뮤니티 사이트 입니다.
 
 ## Preview
 ---
-![camping communitysite](https://wlals2997.github.io/CampingCommunitysite/imgs/%EC%B5%9C%EC%A2%85%EB%B3%B8.gif)
+![camping communitysite](https://postfiles.pstatic.net/MjAyMTEwMDVfMjQ3/MDAxNjMzNDEyNjIwNzI2.3hd8gFVhqab0D-x3ckatM25OOIK6e4flCCLY6Roi-fkg.BPaI4OtJAPiGj04Kx6xif1y5xlAjP-hN1JSntsy831wg.JPEG.wlals2997/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?type=w773)
 
 👉 [사이트 방문](https://wlals2997.github.io/CampingCommunity1/)
 
